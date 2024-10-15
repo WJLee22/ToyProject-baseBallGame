@@ -33,4 +33,4 @@ Simple&amp;funny BaseBallGame!
 Youtube video (Click on the image below to go to the YouTube link.)
 
 
- [![제목](https://github.com/000jun26/MiniProject_TicketReservationApp/assets/146986774/cb69132b-72e1-4819-ba0a-39ad1f402552)](https://youtu.be/Njj6Z49qLPU?si=CRpZx0I0f039usYY)
+ [![제목](https://github.com/user-attachments/assets/0ef59d96-63d2-424d-9326-93f6845085da)](https://youtu.be/Njj6Z49qLPU?si=CRpZx0I0f039usYY)

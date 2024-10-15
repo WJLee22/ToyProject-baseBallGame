@@ -30,7 +30,8 @@ Simple&amp;funny BaseBallGame!
 
 #### 2.5 game Demonstration video
 
-Youtube video (Click on the image below to go to the YouTube link.)
+> **Youtube video (Click on the image below to go to the YouTube link.)**
 
+<br>
 
  [![제목](https://github.com/user-attachments/assets/0ef59d96-63d2-424d-9326-93f6845085da)](https://youtu.be/Njj6Z49qLPU?si=CRpZx0I0f039usYY)

@@ -1,4 +1,4 @@
-# java ToyProject-baseBallGame
+# java ToyProject: baseBallGame⚾🏏
 Simple&amp;funny BaseBallGame!
 
 #### 2024.10.16~
@@ -33,4 +33,4 @@ Simple&amp;funny BaseBallGame!
 
 <br>
 
- [![제목](https://github.com/user-attachments/assets/0ef59d96-63d2-424d-9326-93f6845085da)](https://youtu.be/Njj6Z49qLPU?si=CRpZx0I0f039usYY)  **```<==Click HERE```**
+ [![제목](https://github.com/user-attachments/assets/0ef59d96-63d2-424d-9326-93f6845085da)](https://youtu.be/Njj6Z49qLPU?si=CRpZx0I0f039usYY)  **```👈 Click HERE!```**

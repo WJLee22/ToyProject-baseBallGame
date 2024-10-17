@@ -28,7 +28,7 @@ Simple&amp;funny BaseBallGame!
 
 <br>
 
-#### 2.5 game Demonstration video
+#### game Demonstration video
 
 > **Youtube video (Click on the image below to go to the YouTube link.)**
 

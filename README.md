@@ -1,4 +1,4 @@
-# java ToyProject: baseBallGame⚾🏏
+# ToyProject: baseBallGame ⚾🏏
 Simple&amp;funny BaseBallGame!
 
 #### 2024.10.16~

@@ -26,11 +26,10 @@ Simple&amp;funny BaseBallGame!
 ## Current game system before update
 
 
-<br>
 
-#### game Demonstration video
+### _game Demonstration video_
 
-> **Youtube video (Click on the image below to go to the YouTube link.)**
+> **Youtube video (`Click on the image below` to go to the YouTube link.)**
 
 <br>
 
